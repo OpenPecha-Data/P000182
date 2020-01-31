@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༁ྃ༔ བླ་མའི་ཐུགས་སྒྲུབ་རྡོ་རྗེ་དྲག་རྩལ་ལས༔ ཞལ་གདམས་ལམ་རིམ་ཡེ་ཤེས་སྙིང་པོ་བཞུགས་སོ༔
+  authors:
+  - མཛད་པ་པོ། པདྨ་སཾ་བྷ་བ།
+  sku: SHE-RTD-017
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - yigchung
+web_metadata:
+  title:
+    en: Instructions of Lamrim Yeshe Nyingpo, the Gradual Path of the Wisdom Essence
+      from Dorje Drakpo Tsal’s Accompoishing Guru Section
+    bo: ༁ྃ༔ བླ་མའི་ཐུགས་སྒྲུབ་རྡོ་རྗེ་དྲག་རྩལ་ལས༔ ཞལ་གདམས་ལམ་རིམ་ཡེ་ཤེས་སྙིང་པོ་བཞུགས་སོ༔
+  collection:
+    en: Treasury of Precious Termas–  Book 17
+    bo: རིན་ཆེན་གཏེར་མཛོད།–  དེབ། ༡༧
+  author:
+    en: Padmasambhava
+    bo: པདྨ་སཾ་བྷ་བ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-RTD-017
+  category:
+    en: Stages of the Path
+    bo: ལམ་རིམ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-RTD-017.epub
+  description:
+    en: ''
+    bo: ''
